@@ -1,7 +1,7 @@
 # Smooth Scroll Cards Parallax
 
 <video width="100%" autoplay loop muted>
-  <source src="public/demo.mov" type="video/mp4">
+  <source src="/demo.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
