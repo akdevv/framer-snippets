@@ -11,8 +11,6 @@ A collection of reusable and creative **Framer Motion** components and snippets 
 | ---------------------------- | ------------------------------------------------------------------------ |
 | smooth-scroll-cards-parallax | A Lenis Scroll and Framer Motion-powered parallax animation for Next.js. |
 
-. |
-
 ---
 
 ## 🚀 How to Use
